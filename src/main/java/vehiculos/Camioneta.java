@@ -55,7 +55,7 @@ public class Camioneta extends Vehiculo {
 		
 		Camioneta.cantidadCamionetas++;
 		
-		this.velocidadMaxima = 100;
+		this.velocidadMaxima = 90;
 		this.traccion = "4X4";
 		this.volco = volco;
 		

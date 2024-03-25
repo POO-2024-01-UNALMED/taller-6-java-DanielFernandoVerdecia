@@ -117,6 +117,7 @@ public class Vehiculo {
 	    	this.fabricante = fabricante;
 	    	this.puertas = puertas;
 	    	this.traccion = traccion;
+	    	this.precio = precio;
 	    	
 	    	
 	    	contarFabricantePais();
